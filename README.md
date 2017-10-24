@@ -1,2 +1,2 @@
 # JavaConcepts
-Please refer to the Wiki pages for more information.
+alfdusofhdsalease refer to the Wiki pages for more information.
