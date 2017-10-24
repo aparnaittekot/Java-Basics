@@ -54,7 +54,7 @@ public class CollectionsExamples {
 		 * next(), previous(), remove(), nextIndex(), previousIndex()
 		 */
 		System.out.println("LIST-ITERATOR INTERFACE");
-		
+				
 		
 	}
 }
