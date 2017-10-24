@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class ListToMap {
 
 	public static void main(String[] args) {
-
+            
 		List<MapModel> list = new ArrayList<>();
 		list.add(new MapModel(1, "aaa"));
 		list.add(new MapModel(2, "bbb"));
